@@ -52,7 +52,7 @@ BSP Folder Contents
 EVK Folder Contents
 ^^^^^^^^^^^^^^^^^^^
 
-* vab-820_demo_image.tar.bz2: Configure files when user would like to evaluate
+* ``vab-820_demo_image.tar.bz2``: Configure files when user would like to evaluate
   VAB-820 with Ubuntu root file system.
 
 .. note :: If a user needs the supporting files for all software mentioned in
