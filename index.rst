@@ -71,7 +71,8 @@ Table of Contents
    :numbered:
 
    introduction.rst
-
+   buildenv.rst
+   ltib.rst
 
 Indices and tables
 ==================
