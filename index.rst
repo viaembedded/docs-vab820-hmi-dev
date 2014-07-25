@@ -6,6 +6,19 @@ Welcome to VAB-820 HMI Development Guide's documentation!
 
 .. warning:: This document is work in progress.
 
+The online documentation can be accessed in our `Documentation Directory`_.
+The source code of this documentation is on Github_. You can contribute to the docs there.
+Also, you can use that source to compile these docs in any other form supported by Sphix,
+our documentation engine: PDF, epub, ...
+
+If you find information in the document that needs correction, please let us know at this
+document's Issues_ page, where you can submit bug reports. Fixes and pull requests are also
+appreciated!
+
+.. _Documentation Directory: http://viaembedded.github.io/docs/#vab820
+.. _Github: https://github.com/viaembedded/docs-vab820-hmi-dev
+.. _Issues: https://github.com/viaembedded/docs-vab820-hmi-dev/issues
+
 Copyright
 ---------
 
