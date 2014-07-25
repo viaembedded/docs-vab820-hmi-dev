@@ -19,7 +19,7 @@ Depending on the performance of user’s computer, this process will take time
 to run. It may take several minutes to an hour. Once the LTIB environment is
 configured, a menu will be available for selecting configurations.
 
-The first menu is shown in :num:`Fuigure #figure-ltib-platform`. Use the arrow keys to move the cursor
+The first menu is shown in :num:`Figure #figure-ltib-platform`. Use the arrow keys to move the cursor
 between **<Select>** and **<Exit>**.
 
 Choose **<Select>** then press enter key to open the selected item.
