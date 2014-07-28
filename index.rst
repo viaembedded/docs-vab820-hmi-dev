@@ -73,6 +73,9 @@ Table of Contents
    introduction.rst
    buildenv.rst
    ltib.rst
+   bootingmedia.rst
+   ubuntudemo.rst
+   touchpanel.rst
 
 Indices and tables
 ==================
